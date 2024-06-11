@@ -1,0 +1,1 @@
+This is my first year project which utilizes the concepts of programming fundamentals. It is a 12 bead game and to run it you'll need SFML to be setup in your IDE. Past all the required files in the same folder as the cpp file and then open it in SFML project and you are good to go. It is not very efficient but it works without any problems :)
